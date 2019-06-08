@@ -1,0 +1,14 @@
+{
+    "1124": {
+        "name" : "Bonbony",
+        "cost" : 120,
+        "description" : "Sladké a pěkné",
+        "image" : "images/bonbon.png"
+    },
+    "1125": {
+        "name" : "Dortik",
+        "cost" : 100,
+        "description" : "Tučný s krémem",
+        "image" : "images/piroznoe.jpg"
+    }
+}
